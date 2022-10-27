@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heavysword1
+- 👋 Hi, I’m @dmski1 also knwon as @heavysword1
 - 👀 I’m interested in ... defi and frontend coding
 - 🌱 I’m currently learning ...coding
 - 💞️ I’m looking to collaborate on ...testing
