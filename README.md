@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dmski1 also knwon as @heavysword1
+- 👋 Hi, I’m @dmski1 also known as @heavysword1
 - 👀 I’m interested in ... defi and frontend coding
-- 🌱 I’m currently learning ...coding
+- 🌱 I’m currently learning ...coding, rust and move
 - 💞️ I’m looking to collaborate on ...testing
 - 📫 How to reach me ...dmski1@yahoo.com
 
