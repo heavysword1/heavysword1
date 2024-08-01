@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... defi and frontend coding
 - 🌱 I’m currently learning ...coding, rust and move
 - 💞️ I’m looking to collaborate on ...testing
-- 📫 How to reach me ...dmski1@yahoo.com
+- 📫 How to reach me ...dmski100@gmail.com
 
 <!---
 heavysword1/heavysword1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
